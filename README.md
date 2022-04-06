@@ -2,32 +2,32 @@
 <img src="https://i.imgur.com/MkFud1l.png" align="center" alt="Logo" height="100">
 <br>
 <br>
-<strong><i>An open-source discord bot for SA-MP(San Andreas Multiplayer) Servers/ Communities</i></strong>
+<strong><i>Một hệ thống bot discord mở nguồn cho máy chủ San Andreas Mutiplayer (SA-MP)</i></strong>
 <br>
 <br>
 <hr>
 
 
 
-<a href="https://travis-ci.com/abhaysv/SAMP-Discord-Bot-Dumbledore">
+<a href="https://www.facebook.com/ru.brian1108/">
     <img src="https://img.shields.io/travis/com/abhaysv/SAMP-Discord-Bot-Dumbledore.svg?style=for-the-badge" alt="Build">
 </a>
 
-<a href="https://github.com/abhaysv/SAMP-Discord-Bot-Dumbledore">
+<a href="https://www.facebook.com/ru.brian1108/">
     <img src="https://img.shields.io/github/languages/top/abhaysv/SAMP-Discord-Bot-Dumbledore.svg?colorB=f0db4f&style=for-the-badge" alt="Languages">
 </a>
 
 <br>
 
-<a href="https://github.com/abhaysv/SAMP-Discord-Bot-Dumbledore">
+<a href="https://www.facebook.com/ru.brian1108/">
     <img src="https://img.shields.io/github/package-json/v/abhaysv/SAMP-Discord-Bot-Dumbledore.svg?colorB=Orange&style=for-the-badge" alt="Version">
 </a>
 
-<a href="https://github.com/abhaysv/SAMP-Discord-Bot-Dumbledore/issues">
+<a href="https://www.facebook.com/ru.brian1108//issues">
     <img src="https://img.shields.io/github/issues/abhaysv/SAMP-Discord-Bot-Dumbledore.svg?style=for-the-badge&colorB=37f149" alt="Issues">
 </a>
 
-<a href="https://github.com/abhaysv/SAMP-Discord-Bot-Dumbledore/pulls">
+<a href="https://www.facebook.com/ru.brian1108//pulls">
     <img src="https://img.shields.io/github/issues-pr/abhaysv/SAMP-Discord-Bot-Dumbledore.svg?style=for-the-badge&colorB=37f149" alt="Pull Request">
 </a>
 
@@ -52,7 +52,7 @@
 ---
 ## Cài đặt. 📝
 -Bạn có thể trực tiếp triển khai khởi động này với Dyno miễn phí do Heroku cung cấp. Chỉ cần đăng ký một acc miễn phí tại heroku và bấm vào nút Deploy.<br />
--Để có hướng dẫn chi tiết [bấm vào đây](https://github.com/abhaysv/SAMP-Discord-Bot-Dumbledore/wiki).
+-Để có hướng dẫn chi tiết [bấm vào đây](https://www.facebook.com/ru.brian1108//wiki).
 
 ---
 
