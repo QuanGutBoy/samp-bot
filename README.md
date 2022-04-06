@@ -52,7 +52,7 @@
 ---
 ## Cài đặt. 📝
 -Bạn có thể trực tiếp triển khai khởi động này với Dyno miễn phí do Heroku cung cấp. Chỉ cần đăng ký một acc miễn phí tại heroku và bấm vào nút Deploy.<br />
--Để có hướng dẫn chi tiết [bấm vào đây](https://www.facebook.com/ru.brian1108//wiki).
+-Để có hướng dẫn chi tiết [bấm vào đây](https://www.facebook.com/ru.brian1108/).
 
 ---
 
