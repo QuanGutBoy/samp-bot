@@ -38,26 +38,26 @@
 <br>
 
 
-## SAMP Discord Bot with some basic functionality. 📍
--You can query SAMP server you can query samp servers and display the no of players. (/players)<br />
--A CMD to reply with the server IP<br />
--It has a feature similar to the application-bot where it can initiate Applications in DM. (/apply) [ This feature will be refined in future versions]<br />
--It can search for bans (/sban) , it has an example implementation you will need to edit the SQL accordingly.<br />
--It can revoke the bans (/unbanban) , it has an example implementation you will need to edit the SQL accordingly.<br />
--Logging feature for things like reports, it has an example implementation you will need to edit the SQL accordingly.<br />
--A command processor which will allow you to change the bot cmd character.<br />
--Utlity cmd /clear to clear messages in bulk.<br />
--Supports On the fly configuration changes.
+## SAMP DISCORD BOT NEWCITY với một số chức năng. 📍
+-Bạn có thể truy vấn vào máy chủ SA-MP và lấy thông số về người chơi của máy chủ. (/players)<br />
+-Lệnh để trả lời về IP máy chủ<br />
+-Nó có một tính năng tương tự như bot ứng dụng, nơi nó có thể khởi tạo Ứng dụng trong DM. (/apply) [ Tính năng này sẽ được tinh chỉnh trong các phiên bản sau ]<br />
+-Nó có thể tìm kiếm các lệnh cấm (/sban) , nó có một triển khai ví dụ, bạn sẽ cần phải chỉnh sửa SQL cho phù hợp.<br />
+-Nó có thể thu hồi lệnh cấm (/unbanban) , nó có một triển khai ví dụ, bạn sẽ cần phải chỉnh sửa SQL cho phù hợp.<br />
+-Tính năng ghi nhật ký cho những thứ như báo cáo, nó có một triển khai ví dụ, bạn sẽ cần chỉnh sửa SQL cho phù hợp.<br />
+-Một bộ xử lý lệnh sẽ cho phép bạn thay đổi ký tự cmd bot.<br />
+-Tiện ích cmd /clear để xóa hàng loạt tin nhắn.<br />
+-Hỗ trợ thay đổi cấu hình khi đang di chuyển.
 
 ---
-## Initial Setup. 📝
--You can directly depoy this bot with a free Dyno offered by Heroku. Just signup for a free acc at heroku and click the Deploy button.<br />
--For a detailed tutorial [click here](https://github.com/abhaysv/SAMP-Discord-Bot-Dumbledore/wiki).
+## Cài đặt. 📝
+-Bạn có thể trực tiếp triển khai khởi động này với Dyno miễn phí do Heroku cung cấp. Chỉ cần đăng ký một acc miễn phí tại heroku và bấm vào nút Deploy.<br />
+-Để có hướng dẫn chi tiết [bấm vào đây](https://github.com/abhaysv/SAMP-Discord-Bot-Dumbledore/wiki).
 
 ---
 
-## Deployment 📝
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+## Triển khai 📝
+[![Triển khai](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ---
 
