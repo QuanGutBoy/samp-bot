@@ -1,7 +1,7 @@
 {
-    "name": "Dumbledore Discord BOT",
+    "name": "NewCity Discord BOT",
     "description": "SAMP DISCORD BOT",
-    "repository": "https://github.com/abhaysv/SAMP-Discord-Bot-Dumbledore",
-    "logo": "https://i.imgur.com/MkFud1l.png",
+    "repository": "https://github.com/letuank2018/samp-bot",
+    "logo": "https://i.imgur.com/gBLTvCq.png",
     "keywords": ["node", "express", "static", "samp-dicord-bot"]
   }
